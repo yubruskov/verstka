@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body {
+    font-size: 22px;
+    line-height: 34px;
+}
+header, nav {
+    background-color:#FD739C;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    line-height: 60px;
+}
+
+header{
+    padding: 80px 0px;
+}
+
+header p {
+    line-height: 20px;
+}
+main {
+    margin: 80px 0px;
+
+}
+
